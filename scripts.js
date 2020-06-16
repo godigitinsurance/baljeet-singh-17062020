@@ -8,6 +8,6 @@ $("#type").text("Two Wheeler");
 $("#registrationNumber").text("PB08AY1101");
 $("#make").text("BAJAJ");
 $("#model").text("DISCOVER 150");
-$("#vehicalSubType").text("ES");
+$("#vehicalSubType").text("ES FA DI");
 $("#engineNo").text("DHGBNA62466");
 $("#chassis").text("MD2DHDHZZNCA25060");
