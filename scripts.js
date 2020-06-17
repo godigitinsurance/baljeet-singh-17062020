@@ -5,7 +5,7 @@ $("#endDate").text("16-Jun-2021");
 
 
 $("#type").text("Two Wheeler");
-$("#registrationNumber").text("PB08AY1101");
+$("#registrationNumber").text("PB08AY1401");
 $("#make").text("BAJAJ");
 $("#model").text("PULSAR 150");
 $("#vehicalSubType").text("ES FA DI");
